@@ -84,7 +84,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/sabhishek007/VRV-Security-Frontend-Assignment.git
-cd VRV-Security-Assignment
+cd VRV-Security-Frontend-Assignment
 ```
 
 ### Step 2: Install Dependencies
