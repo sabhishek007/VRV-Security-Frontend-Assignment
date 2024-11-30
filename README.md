@@ -83,7 +83,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/sabhishek007/VRV-Security-Frontend-Assignment.git
 cd VRV-Security-Assignment
 ```
 
